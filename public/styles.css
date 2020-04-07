@@ -16,6 +16,7 @@ header img {
 p.version {
 	color: #ec7574;
 	font-weight: bold;
+	margin-bottom: 20px;
 }
 
 ul.builtwith {
@@ -35,4 +36,24 @@ p.intro {
 	text-align: center;
 	font-style: italic;
 	font-size: 26px;
+}
+
+div.npm {
+	font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+	text-align: center;
+	font-size: 18px;
+}
+
+a.github {
+	border-radius: 5px;
+	background-color: #ec7574;
+	border: none;
+	color: #fff;
+	padding: 10px 25px;
+	font-weight: bold;
+}
+
+a.github:hover {
+	text-decoration: none;
+	background-color: #d66a69;
 }
