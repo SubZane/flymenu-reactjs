@@ -12,9 +12,9 @@ A demo can be found here: <a href="https://andreasnorman.com/flymenu-reactjs">De
 ## Installation
 
 ```
-yarn install flymenu-reactjs
+yarn add flymenu-reactjs
 # or via npm
-npm install flymenu-reactjs
+npm install flymenu-reactjs --save
 ```
 
 ## Theme Options
