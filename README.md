@@ -2,12 +2,16 @@
   <img src="https://raw.githubusercontent.com/SubZane/flymenu-reactjs/master/public/img/github-img.png" width="400" alt="flymenu-reactjs">
 </p>
 <p align="center">
-	<img src="https://img.shields.io/static/v1?label=Built With&message=styled-components&color=DB7093">
-	<img src="https://img.shields.io/static/v1?label=Built With&message=ReactJS&color=61DAFB">
-	<img src="https://img.shields.io/static/v1?label=Built With&message=TypeScript&color=blue">
-	<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen">
+	<img src="https://img.shields.io/github/package-json/dependency-version/subzane/flymenu-reactjs/styled-components?color=%23DB7093">
+	<img src="https://img.shields.io/github/package-json/dependency-version/subzane/flymenu-reactjs/react?color=61DAFB">
+	<img src="https://img.shields.io/github/package-json/dependency-version/subzane/flymenu-reactjs/react-dom?color=61DAFB">
+	<img src="https://img.shields.io/github/package-json/dependency-version/subzane/flymenu-reactjs/react-scripts?color=61DAFB">
+	<img src="https://img.shields.io/github/package-json/dependency-version/subzane/flymenu-reactjs/typescript">
+</p>
+<p align="center">
 	<img src="https://img.shields.io/github/v/release/SubZane/flymenu-reactjs?sort=semver">
-	<img src="https://img.shields.io/github/repo-size/subzane/flymenu-reactjs?color=orange">
+	<img src="https://img.shields.io/github/workflow/status/subzane/flymenu-reactjs/Build Validation (on Push)/development?label=development%20build">
+	<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen">
 </p>
 ## Description
 
