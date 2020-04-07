@@ -1,5 +1,6 @@
 import React from 'react'
 import { styled, css } from '../helpers/theme'
+import { animationTypes, childrenTypes } from '../helpers/types'
 
 type ContentType = {
 	visible: boolean
@@ -128,8 +129,8 @@ const Inner = styled.div`
 
 interface iProps {
 	visible: boolean
-	animation: 'door-left' | 'door-right' | 'flip-bottom' | 'flip-top'
-	children?: JSX.Element[] | JSX.Element
+	animation: animationTypes
+	children?: childrenTypes
 }
 
 function PanelContent(props: iProps) {

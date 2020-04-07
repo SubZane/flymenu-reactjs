@@ -12,3 +12,27 @@ header img {
 	margin-top: 90px;
 	max-width: 80% !important;
 }
+
+p.version {
+	color: #ec7574;
+	font-weight: bold;
+}
+
+ul.builtwith {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+ul.builtwith li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+p.intro {
+	text-align: center;
+	font-style: italic;
+	font-size: 26px;
+}

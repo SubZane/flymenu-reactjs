@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { css, createGlobalStyle } from '../helpers/theme'
+import { animationTypes, stateTypes, overlayFadeTypes, childrenTypes } from '../helpers/types'
 import Overlay from './Overlay'
 import PanelButton from './PanelButton'
 import Panel from './Panel'
@@ -29,10 +30,10 @@ html {
 `
 
 interface iProps {
-	animation: 'door-left' | 'door-right' | 'flip-bottom' | 'flip-top'
-	children?: JSX.Element[] | JSX.Element
+	animation: animationTypes
+	children?: childrenTypes
 	showButton: boolean
-	state: 'open' | 'close' | ''
+	state: stateTypes
 }
 
 function OffCanvasPanel(props: iProps) {
@@ -40,7 +41,7 @@ function OffCanvasPanel(props: iProps) {
 	const [isPanelVisible, setPanelVisible] = useState<boolean>(false)
 	const [hasOverlayAnimationEnded, sethasOverlayAnimationEnded] = useState<boolean>(false)
 	const [hasPanelTransitionEnded, sethasPanelTransitionEnded] = useState<boolean>(false)
-	const [fade, setFade] = useState<'in' | 'out' | ''>('')
+	const [fade, setFade] = useState<overlayFadeTypes>('')
 
 	useEffect(() => {
 		if (props.state === 'open') {

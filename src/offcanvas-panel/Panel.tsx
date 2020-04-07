@@ -1,5 +1,6 @@
 import React from 'react'
 import { styled, css } from '../helpers/theme'
+import { animationTypes, childrenTypes } from '../helpers/types'
 import Content from './Content'
 
 type PanelType = {
@@ -90,9 +91,9 @@ const Panel = styled.div<PanelType>`
 `
 interface iProps {
 	visible: boolean
-	animation: 'door-left' | 'door-right' | 'flip-bottom' | 'flip-top'
+	animation: animationTypes
 	onTransitionEnd: () => void
-	children?: JSX.Element[] | JSX.Element
+	children?: childrenTypes
 }
 
 function PanelContainer(props: iProps) {

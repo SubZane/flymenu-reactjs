@@ -1,5 +1,6 @@
 import React from 'react'
 import { styled, css, keyframes } from '../helpers/theme'
+import { overlayFadeTypes } from '../helpers/types'
 
 const fadein = keyframes`
 	0% { opacity: 0;}
@@ -12,7 +13,7 @@ const fadeout = keyframes`
 `
 
 type OverlayType = {
-	fade: 'in' | 'out' | ''
+	fade: overlayFadeTypes
 }
 
 const Overlay = styled.div<OverlayType>`
@@ -54,7 +55,7 @@ const Overlay = styled.div<OverlayType>`
 `
 
 interface iProps {
-	fade: 'in' | 'out' | ''
+	fade: overlayFadeTypes
 	handleEvent: () => void
 	onAnimationEnd: () => void
 }
