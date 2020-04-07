@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SubZane/flymenu-reactjs/master/github-img.png" width="220" alt="flymenu-reactjs">
+  <img src="https://raw.githubusercontent.com/SubZane/flymenu-reactjs/master/public/img/github-img.png" width="400" alt="flymenu-reactjs">
 
 ## Description
 
