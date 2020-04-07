@@ -1,0 +1,14 @@
+body {
+	background-color: #f4f4f1;
+}
+header {
+	background-color: #40434b;
+	height: 250px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+header img {
+	margin-top: 90px;
+	max-width: 80% !important;
+}

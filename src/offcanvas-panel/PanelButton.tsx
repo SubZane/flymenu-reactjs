@@ -33,16 +33,16 @@ const PanelButton = styled.div`
 			right: 20px;
 		`}
 	&:after {
-		right: 16px;
-    color: ${(props) => props.theme.button.color || '#fff'};
+		right: 14px;
+		left: 13px;
+		top: 14px;
     position: absolute;
-    top: 1px;
-    line-height: 50px;
-    font-family: "Font Awesome 5 Free";
-    font-weight: 400;
-    content: "\f0c9";
-    font-size: 20px;
-    speak: none;
+		content: " ";
+		width: 24px;
+		height: 24px;
+		background-image: url('img/menubars.svg');
+		background-repeat: no-repeat;
+		background-position: fixed;
 	}
 `
 
