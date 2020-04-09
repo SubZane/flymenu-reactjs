@@ -1,4 +1,4 @@
-name: Build Validation (on Push)
+name: Build Validation (Master)
 
 on:
   push:
