@@ -1,9 +1,8 @@
 {
 	"name": "flymenu-reactjs",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"private": false,
-	"description": "Google Maps made easy",
-	"main": "dist/simplegmaps.min.js",
+	"description": "flymenu-reactjs is an off-canvas menu component written in ReactJS with TypeScript and Styled Components.",
 	"repository": "https://subzane@github.com/SubZane/flymenu-reactjs.git",
 	"homepage": "https://andreasnorman.com/flymenu-reactjs/",
 	"bugs": "https://github.com/SubZane/flymenu-reactjs/issues",
