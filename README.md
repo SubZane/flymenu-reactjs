@@ -13,6 +13,7 @@
 	<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/subzane/flymenu-reactjs/Build">
 	<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen">
 </p>
+
 ## Description
 
 flymenu-reactjs is an off-canvas menu component written in ReactJS with TypeScript and Styled Components.
