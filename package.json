@@ -1,7 +1,13 @@
 {
 	"name": "flymenu-reactjs",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"private": false,
+	"description": "Google Maps made easy",
+	"main": "dist/simplegmaps.min.js",
+	"repository": "https://subzane@github.com/SubZane/flymenu-reactjs.git",
+	"homepage": "https://andreasnorman.com/flymenu-reactjs/",
+	"bugs": "https://github.com/SubZane/flymenu-reactjs/issues",
+	"author": "Andreas Lee-Norman <andreas@lee-norman.com>",
 	"dependencies": {
 		"@types/jest": "^24.0.0",
 		"@types/styled-components": "^5.0.1",
