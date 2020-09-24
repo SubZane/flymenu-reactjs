@@ -59,4 +59,4 @@ Open [`localhost:3000`](http://localhost:3000) in your browser.
 
 ## Requirements
 
-Requires Node 11 to run
+Requires Node 10+ to run
