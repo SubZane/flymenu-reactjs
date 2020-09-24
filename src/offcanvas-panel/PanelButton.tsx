@@ -1,5 +1,6 @@
 import React from 'react'
 import { styled, css } from '../helpers/theme'
+import menubars from '../img/menubars.svg'
 
 const PanelButton = styled.div`
 	position: fixed;
@@ -10,7 +11,9 @@ const PanelButton = styled.div`
 	border-radius: 50px;
 	height: 50px;
 	border: none;
-	&:focus {outline:0;}
+	&:focus {
+		outline: 0;
+	}
 	z-index: 50;
 	cursor: pointer;
 	${(props) =>
@@ -36,11 +39,11 @@ const PanelButton = styled.div`
 		right: 14px;
 		left: 13px;
 		top: 14px;
-    position: absolute;
-		content: " ";
+		position: absolute;
+		content: ' ';
 		width: 24px;
 		height: 24px;
-		background-image: url('img/menubars.svg');
+		background-image: url(${menubars});
 		background-repeat: no-repeat;
 		background-position: fixed;
 	}

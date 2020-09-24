@@ -1,5 +1,6 @@
 import React from 'react'
 import { styled } from '../helpers/theme'
+import arrowImg from '../img/arrow-right.svg'
 
 const BackLink = styled.a`
 	display: block;
@@ -22,7 +23,7 @@ const BackLink = styled.a`
 		left: 15px;
 		right: 15px;
 		display: inline-block;
-		background-image: url('img/arrow-right.svg');
+		background-image: url(${arrowImg});
 		background-repeat: no-repeat;
 		background-position: fixed;
 		color: rgba(104, 104, 104, 0.5);
