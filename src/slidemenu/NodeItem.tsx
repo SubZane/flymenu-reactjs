@@ -1,5 +1,6 @@
 import React from 'react'
 import { styled, css } from '../helpers/theme'
+import arrowImg from '../img/arrow-right.svg'
 
 type NodeTypes = {
 	hasChildren: boolean
@@ -39,7 +40,7 @@ const NodeLink = styled.a<NodeTypes>`
 				top: 18px;
 				content: ' ';
 				display: inline-block;
-				background-image: url('img/arrow-right.svg');
+				background-image: url(${arrowImg});
 				background-repeat: no-repeat;
 				background-position: fixed;
 		`}
