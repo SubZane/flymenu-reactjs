@@ -4,7 +4,7 @@
 	"private": false,
 	"description": "flymenu-reactjs is an off-canvas menu component written in ReactJS with TypeScript and Styled Components.",
 	"repository": "https://subzane@github.com/SubZane/flymenu-reactjs.git",
-	"homepage": "https://andreasnorman.com/flymenu-reactjs/",
+	"homepage": "https://subzane.github.io/flymenu-reactjs",
 	"bugs": "https://github.com/SubZane/flymenu-reactjs/issues",
 	"author": "Andreas Lee-Norman <andreas@lee-norman.com>",
 	"dependencies": {
@@ -12,17 +12,20 @@
 		"@testing-library/react": "^9.3.2",
 		"@testing-library/user-event": "^7.1.2",
 		"@types/styled-components": "^5.1.3",
-		"styled-components": "^5.2",
-		"typescript": "^3.8.3",
+		"gh-pages": "^3.1.0",
 		"react": "^16.13.1",
 		"react-dom": "^16.13.1",
-		"react-scripts": "3.4.3"
+		"react-scripts": "3.4.3",
+		"styled-components": "^5.2",
+		"typescript": "^3.8.3"
 	},
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject"
+		"eject": "react-scripts eject",
+		"predeploy": "yarn build",
+		"deploy": "gh-pages -d build"
 	},
 	"eslintConfig": {
 		"extends": "react-app"
