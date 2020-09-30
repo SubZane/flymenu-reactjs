@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/flymenu-reactjs/static/js/main.b8c1dae0.chunk.js",
+    "main.js.map": "/flymenu-reactjs/static/js/main.b8c1dae0.chunk.js.map",
+    "runtime-main.js": "/flymenu-reactjs/static/js/runtime-main.11ef27bb.js",
+    "runtime-main.js.map": "/flymenu-reactjs/static/js/runtime-main.11ef27bb.js.map",
+    "static/js/2.19853a56.chunk.js": "/flymenu-reactjs/static/js/2.19853a56.chunk.js",
+    "static/js/2.19853a56.chunk.js.map": "/flymenu-reactjs/static/js/2.19853a56.chunk.js.map",
+    "index.html": "/flymenu-reactjs/index.html",
+    "precache-manifest.7cf38e646940f132f1b0de2bf88837f0.js": "/flymenu-reactjs/precache-manifest.7cf38e646940f132f1b0de2bf88837f0.js",
+    "service-worker.js": "/flymenu-reactjs/service-worker.js",
+    "static/js/2.19853a56.chunk.js.LICENSE.txt": "/flymenu-reactjs/static/js/2.19853a56.chunk.js.LICENSE.txt",
+    "static/media/arrow-right.svg": "/flymenu-reactjs/static/media/arrow-right.7d5e82cc.svg",
+    "static/media/menubars.svg": "/flymenu-reactjs/static/media/menubars.68cf3b20.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11ef27bb.js",
+    "static/js/2.19853a56.chunk.js",
+    "static/js/main.b8c1dae0.chunk.js"
+  ]
+}
