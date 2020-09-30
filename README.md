@@ -20,7 +20,7 @@ flymenu-reactjs is an off-canvas menu component written in ReactJS with TypeScri
 
 ## Demo
 
-A demo can be found here: <a href="https://andreasnorman.com/flymenu-reactjs">Demo</a>
+A demo can be found here: <a href="https://subzane.github.io/flymenu-reactjs/">Demo</a>
 
 ## Installation
 
