@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49938ebdb37d2ac355ad626d8efe5449",
+    "revision": "d7860bb1f474d947960fdd94bb7b294f",
     "url": "/flymenu-reactjs/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flymenu-reactjs/static/js/2.19853a56.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1109fff764556162d71a",
-    "url": "/flymenu-reactjs/static/js/main.b8c1dae0.chunk.js"
+    "revision": "99f971d30ce157886c26",
+    "url": "/flymenu-reactjs/static/js/main.29c8c0a6.chunk.js"
   },
   {
     "revision": "1cbfc0496d3ba7db4eee",
