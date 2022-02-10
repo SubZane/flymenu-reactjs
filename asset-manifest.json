@@ -1,21 +1,12 @@
 {
   "files": {
-    "main.js": "/flymenu-reactjs/static/js/main.29c8c0a6.chunk.js",
-    "main.js.map": "/flymenu-reactjs/static/js/main.29c8c0a6.chunk.js.map",
-    "runtime-main.js": "/flymenu-reactjs/static/js/runtime-main.11ef27bb.js",
-    "runtime-main.js.map": "/flymenu-reactjs/static/js/runtime-main.11ef27bb.js.map",
-    "static/js/2.19853a56.chunk.js": "/flymenu-reactjs/static/js/2.19853a56.chunk.js",
-    "static/js/2.19853a56.chunk.js.map": "/flymenu-reactjs/static/js/2.19853a56.chunk.js.map",
+    "main.js": "/flymenu-reactjs/static/js/main.227c616f.js",
     "index.html": "/flymenu-reactjs/index.html",
-    "precache-manifest.132f7e4180b40abe336f90770686028d.js": "/flymenu-reactjs/precache-manifest.132f7e4180b40abe336f90770686028d.js",
-    "service-worker.js": "/flymenu-reactjs/service-worker.js",
-    "static/js/2.19853a56.chunk.js.LICENSE.txt": "/flymenu-reactjs/static/js/2.19853a56.chunk.js.LICENSE.txt",
-    "static/media/arrow-right.svg": "/flymenu-reactjs/static/media/arrow-right.7d5e82cc.svg",
-    "static/media/menubars.svg": "/flymenu-reactjs/static/media/menubars.68cf3b20.svg"
+    "static/media/menubars.svg": "/flymenu-reactjs/static/media/menubars.7b954165fc2dfe8256784fef37664b17.svg",
+    "static/media/arrow-right.svg": "/flymenu-reactjs/static/media/arrow-right.2aa3459d310a1027ab2abb1ae496ece2.svg",
+    "main.227c616f.js.map": "/flymenu-reactjs/static/js/main.227c616f.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.11ef27bb.js",
-    "static/js/2.19853a56.chunk.js",
-    "static/js/main.29c8c0a6.chunk.js"
+    "static/js/main.227c616f.js"
   ]
 }
