@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/flymenu-reactjs/static/js/main.227c616f.js",
+    "main.js": "/flymenu-reactjs/static/js/main.82943558.js",
     "index.html": "/flymenu-reactjs/index.html",
     "static/media/menubars.svg": "/flymenu-reactjs/static/media/menubars.7b954165fc2dfe8256784fef37664b17.svg",
     "static/media/arrow-right.svg": "/flymenu-reactjs/static/media/arrow-right.2aa3459d310a1027ab2abb1ae496ece2.svg",
-    "main.227c616f.js.map": "/flymenu-reactjs/static/js/main.227c616f.js.map"
+    "main.82943558.js.map": "/flymenu-reactjs/static/js/main.82943558.js.map"
   },
   "entrypoints": [
-    "static/js/main.227c616f.js"
+    "static/js/main.82943558.js"
   ]
 }
